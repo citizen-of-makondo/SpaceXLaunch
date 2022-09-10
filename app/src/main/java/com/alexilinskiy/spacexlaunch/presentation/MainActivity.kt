@@ -1,4 +1,4 @@
-package com.alexilinskiy.spacexlaunch
+package com.alexilinskiy.spacexlaunch.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
